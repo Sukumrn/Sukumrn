@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aromal 👋
 
-<!--
-**Sukumrn/Sukumrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Engineering Physics student at the University of Oldenburg, focused on **solar resource assessment, energy meteorology, and photovoltaic system modelling**.
 
-Here are some ideas to get you started:
+🔭 Currently working on: ground-based irradiance data QC, PV yield simulation, and short-term solar forecasting
+🌱 Background: experimental physics (laser/photonics), Python-based scientific data analysis
+📫 Reach me: aromalasukumaran@gmail.com | [LinkedIn](your-linkedin-url)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **[Linke Turbidity Validation](link-once-created)** — Validated climatological turbidity data against a year of ground-measured irradiance; found a ~24% systematic overestimation
+- **[PV Design Study — Fliegerhorst Quarter](link-once-created)** — Simulated PV layouts for a 14-unit residential building; showed east–west layouts outperform south-facing by ~49%
+
+
+### Tools I use
+`Python` `pvlib` `pandas` `scikit-learn` `NREL SAM` `MATLAB` `PVGIS` `CAMS`
