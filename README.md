@@ -1,9 +1,9 @@
-# Hi, I'm Aromal 👋
+# Hi, I'm Aromal Sukumaran👋
 
 M.Sc. Engineering Physics student at the University of Oldenburg, focused on **solar resource assessment, energy meteorology, and photovoltaic system modelling**.
 
 🔭 Currently working on: ground-based irradiance data QC, PV yield simulation, and short-term solar forecasting
-🌱 Background: experimental physics (laser/photonics), Python-based scientific data analysis
+🌱 Background: experimental physics (laser/photonics/applied electronics), Python-based scientific data analysis
 📫 Reach me: aromalasukumaran@gmail.com 
 
 ### Featured Projects
