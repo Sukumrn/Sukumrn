@@ -4,7 +4,7 @@ M.Sc. Engineering Physics student at the University of Oldenburg, focused on **s
 
 🔭 Currently working on: ground-based irradiance data QC, PV yield simulation, and short-term solar forecasting
 🌱 Background: experimental physics (laser/photonics), Python-based scientific data analysis
-📫 Reach me: aromalasukumaran@gmail.com | [LinkedIn](your-linkedin-url)
+📫 Reach me: aromalasukumaran@gmail.com 
 
 ### Featured Projects
 - **[Linke Turbidity Validation](https://github.com/Sukumrn/linke-turbidity-validation)** — Validated climatological turbidity data against a year of ground-measured irradiance; found a ~24% systematic overestimation
