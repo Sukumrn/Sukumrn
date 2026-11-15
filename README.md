@@ -1,8 +1,8 @@
 # Aromal Sukumaran
 
-M.Sc. Engineering Physics student at the **University of Oldenburg, Germany**, with an academic background in Physics and Applied Electronics.
+M.Sc. Engineering Physics student at the **University of Oldenburg, Germany**, with a B.Sc. background in Physics and Applied Electronics.
 
-My current technical interests are **solar energy meteorology, solar resource assessment, photovoltaic systems, and scientific data analysis**. I am particularly interested in using measured and modelled atmospheric data to understand solar irradiance and support renewable-energy applications.
+My current interests are **solar energy meteorology, solar resource assessment, photovoltaic systems, and scientific data analysis**. I am interested in using measured and modelled atmospheric data to understand solar irradiance and support renewable-energy applications.
 
 ## Research and technical interests
 
@@ -13,17 +13,13 @@ My current technical interests are **solar energy meteorology, solar resource as
 - Data quality control, validation, and visualisation
 - Solar forecasting and data-driven modelling (developing)
 
-## Selected projects
+## Selected academic projects
 
-### [Linke Turbidity Validation](https://github.com/Sukumrn/linke-turbidity-validation)
-A solar-meteorology project investigating climatological Linke turbidity using ground-based irradiance measurements from the DLR Eye2Sky station network in Oldenburg.
+### [Linke Turbidity Analysis](https://github.com/Sukumrn/linke-turbidity-validation)
+Solar-meteorology analysis using ground-based irradiance measurements from the DLR Eye2Sky station network in Oldenburg. The work explores Linke turbidity retrieval, clear-sky filtering, climatological comparison, and selected CAMS aerosol checks.
 
-**Topics:** atmospheric turbidity, irradiance data processing, clear-sky modelling, validation, and Python-based analysis.
-
-### [PV Design Study – Residential Building](https://github.com/Sukumrn/pv-design-residential-building)
-A collaborative university project examining photovoltaic layout options for a residential development in the Fliegerhorst quarter of Oldenburg.
-
-**Topics:** PV system design, roof-layout assessment, solar-energy modelling, and comparison of system configurations.
+### [PV Configuration Study — Fliegerhorst Oldenburg](https://github.com/Sukumrn/pv-design-residential-building)
+Collaborative university project comparing photovoltaic configurations for a residential building using PVGIS TMY weather data and Python/pvlib modelling.
 
 ## Technical toolkit
 
@@ -37,7 +33,7 @@ A collaborative university project examining photovoltaic layout options for a r
 **M.Sc. Engineering Physics**  
 University of Oldenburg, Germany
 
-**B.Sc. Physics – Applied Electronics**  
+**B.Sc. Physics — Applied Electronics**  
 Nirmala College, Muvattupuzha, India
 
 ## Contact
@@ -47,4 +43,4 @@ Nirmala College, Muvattupuzha, India
 
 ---
 
-*This portfolio documents selected academic projects and my ongoing development in solar meteorology and renewable-energy data analysis.*
+*This portfolio documents selected academic projects and ongoing development in solar meteorology and renewable-energy data analysis.*
